@@ -1,0 +1,33 @@
+.canvas {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    border: 1px solid black;
+    padding: 40px;
+    margin: 5px;
+
+}
+
+#Grey {
+    background-color: grey;
+}
+
+#White {
+    background-color: white;
+}
+
+#Yellow {
+    background-color: yellow;
+}
+
+#Blue {
+    background-color: blue;
+}
+
+#purple {
+    background-color: purple;
+}
