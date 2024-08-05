@@ -1,5 +1,5 @@
 # Theme-changer
-I am creating this website with HTML, Css and JavaScript.
+I am creating this Theme Changer with HTML, Css and JavaScript.
 
-click on this link to try out Theme Changer:
+Click On This Link To Try Out Theme Changer:
 https://scriptwithsaad.github.io/Theme-changer/
